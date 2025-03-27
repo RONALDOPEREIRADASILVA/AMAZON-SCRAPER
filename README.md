@@ -1,2 +1,0 @@
-# AMAZON-SCRAPER
- Projeto Amazon
